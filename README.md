@@ -1,8 +1,8 @@
-# Netflix Streaming Platform Website
 
-![Netflix Logo](src/assets/netflix_logo.png)
+# I have created netflix clone as movie streaming platform for my winning camp project.
 
-The Netflix Streaming Platform Website is a web application that aims to replicate the popular streaming platform, Netflix. It provides users with the ability to browse and stream a wide range of movies and TV shows on-demand. The website is built using HTML, CSS, and JavaScript, with additional libraries and frameworks as needed.
+# Movie Streaming Platform Website
+The Movie Streaming Platform Website is a web application that aims to replicate the popular streaming platform, Netflix. It provides users with the ability to browse and stream a wide range of movies and TV shows on-demand. The website is built using HTML, CSS, and JavaScript, with additional libraries and frameworks as needed.
 
 ## Table of Contents
 
@@ -28,13 +28,13 @@ The Netflix Streaming Platform Website is a web application that aims to replica
 
 ## Demo
 
-A live demo of the Netflix Streaming Platform Website is available at [example.com](https://example.com).
+A live demo of the Movie Streaming Platform Website is available at [example.com](https://example.com).
 
 ![Netflix Streaming Platform Website Demo](demo.gif)
 
 ## Installation
 
-To run the Netflix Streaming Platform Website locally, follow these steps:
+To run the Movie Streaming Platform Website locally, follow these steps:
 
 1. Clone the repository:
 
@@ -81,4 +81,4 @@ Contributions to the Netflix Streaming Platform Website project are welcome! If 
 
 ## License
 
-The Netflix Streaming Platform Website is open-source and released under the [MIT License](LICENSE).
+The Movie Streaming Platform Website is open-source and released under the [MIT License](LICENSE).
